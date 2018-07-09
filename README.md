@@ -17,3 +17,4 @@ acs-engine upgrade --deployment-dir _output/edsk8s02/ --location northcentralus 
 
 ```
 * https://github.com/Azure/acs-engine/blob/master/docs/acsengine.md
+* https://github.com/Azure/acs-engine/blob/master/docs/kubernetes/windows.md Use Windows Container image : microsoft/windowsservercore:1803”
